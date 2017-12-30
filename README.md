@@ -5,3 +5,9 @@ The entire Pro Git book, written by Scott Chacon and Ben Straub and published by
 
 Haha, i found some instresting thing, the Emoji cheat sheet,here is the URL:
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
+ :bowtie:
+ :smile:
+ :simple_smile:
+ :laughing:
+ :blush:
+  :smiley:
