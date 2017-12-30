@@ -7,7 +7,7 @@ Haha, i found some instresting thing, the Emoji cheat sheet,here is the URL:
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
  :bowtie:
  :smile:
- :simple_smile:
+ :simple smile:
  :laughing:
  :blush:
   :smiley:
